@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702219426845",
+    "project_id": "u3p2-6c1c1",
+    "storage_bucket": "u3p2-6c1c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702219426845:android:975f9c1e71f9b1dc773af4",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u3_p2_bdfirestore_edgaralbertovalderramacastillo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702219426845-aa2jqdj7l4rjt4cmbqmo322pa43v6et0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0SvZUA0oUtQW8a974WZoS76f4kXi5QMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702219426845-aa2jqdj7l4rjt4cmbqmo322pa43v6et0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
